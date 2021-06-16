@@ -20,7 +20,7 @@
     <button></button>
   </article>
   <article>
-    <h2>Forage food truck keytar master cleanse</h2>
+    <h2>Mijn hobbies</h2>
     <p>ethical thundercats sustainable locavore quinoa Neutra. Aesthetic tacky sweater single-origin coffee, bicycle rights organic lo-fi street art american apparel ennui four loko ethnic Brooklyn small batch. Forage YOLO polaroid</p>
     <button>Like</button>
   </article>
