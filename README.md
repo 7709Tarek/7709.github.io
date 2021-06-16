@@ -16,12 +16,12 @@
   </article>
   <article>
     <h2>Mijn gezin</h2>
-    <p>Mijn gezin bestaat uit een broer Yanick (16) mijn vader Leon (50) mijn moeder (48) en mijn 2 nieuwe konijnen Happy en Speedy (allebei 11 weken oud). Helaas is sinds de afgelopen zomervakantie er weer een paar ruzies geweest waardoor mijn ouders gescheiden zijn.</p>
+    <p>Mijn gezin bestaat uit een broer Yanick (16), mijn vader Leon (50), mijn moeder (48) en mijn 2 nieuwe konijnen Happy en Speedy (allebei 11 weken oud). Helaas is sinds de afgelopen zomervakantie er weer een paar ruzies geweest waardoor mijn ouders gescheiden zijn.</p>
     <button></button>
   </article>
   <article>
     <h2>Mijn hobbies</h2>
-    <p>Mijn hobies zijn voornamelijk spelen of knuffelen etc met dieren gamen lekker naar buiten met vrienden spelen Basketbal uitjes vissen en zwemmen.</p>
+    <p>Mijn hobies zijn voornamelijk spelen of knuffelen etc met dieren, gamen, lekker naar buiten, met vrienden spelen, Basketbal, uitjes, vissen en zwemmen.</p>
     <button></button>
   </article>  
 </body>
