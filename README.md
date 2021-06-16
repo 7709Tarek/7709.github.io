@@ -11,12 +11,12 @@
   </header>
   <article>
     <h2>Over mij</h2>
-    <p>Mijn naam is Tarek Van den Oever en Ik ben 14 jaar oud. Ik woon in Rosmalen en ik zit op DS.pierson college</p>
-    <button>Like</button>
+    <p>Mijn naam is Tarek Van den Oever en ik ben 14 jaar oud. Ik woon in Rosmalen en ik zit op DS.pierson college.</p>
+    <button></button>
   </article>
   <article>
-    <h2>Sartorial synth Echo Park, roof party</h2>
-    <p>chambray you probably haven't heard of them pour-over viral selvage umami skateboard VHS post-ironic selfies. Wes Anderson gentrify fanny pack twee, bicycle rights bitters blog keffiyeh plaid flannel. Tonx irony cliche sustainable mlkshk bitters. Four loko leggings chambray Vice.</p>
+    <h2>Mijn gezin</h2>
+    <p>Mijn gezin bestaat uit een broer Yanick (16) mijn vader Leon (50) mijn moeder (48) en mijn 2 nieuwe konijnen Happy en Speedy (allebei 11 weken oud). Helaas is sinds de afgelopen zomervakantie m</p>
     <button>Like</button>
   </article>
   <article>
