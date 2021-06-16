@@ -21,12 +21,7 @@
   </article>
   <article>
     <h2>Mijn hobbies</h2>
-    <p>ethical thundercats sustainable locavore quinoa Neutra. Aesthetic tacky sweater single-origin coffee, bicycle rights organic lo-fi street art american apparel ennui four loko ethnic Brooklyn small batch. Forage YOLO polaroid</p>
-    <button>Like</button>
-  </article>
-  <script>
-    $("button").on("click", function() {
-      alert("Clicked!");
-    });
-  </script>
+    <p>Mijn hobies zijn voornamelijk spelen of knuffelen etc met dieren gamen lekker naar buiten met vrienden spelen Basketbal uitjes vissen en zwemmen.</p>
+    <button></button>
+  </article>  
 </body>
